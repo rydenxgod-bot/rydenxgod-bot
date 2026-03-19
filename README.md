@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://imgflip.com/gif/an2zmf" width="180" alt="Vaexor coding gif" />
+<img src="[https://i.imgflip.com/65efzo.gif](https://i.imgflip.com/65efzo.gif)" width="180" alt="Vaexor coding gif" />
 
 <br/>
 
