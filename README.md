@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/github/followers/rydenxgod-bot?label=Followers&style=flat-square&color=6e40c9" alt="Followers" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;API+Architect+%E2%9A%99%EF%B8%8F;Telegram+Bot+Builder+%F0%9F%A4%96;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Always+building%2C+never+stopping+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;API+Architect+%E2%9A%99%EF%B8%8F;Bot+Builder+%F0%9F%A4%96;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Always+building%2C+never+stopping+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
