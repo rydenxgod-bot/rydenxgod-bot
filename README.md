@@ -46,7 +46,8 @@ class Vaexor:
 - 🌱 Levelling up in **Backend Architecture, API Design & System Scalability**
 - 🛠️ I build bots, web apps, cloud tools & things nobody asked for (but everyone needs)
 - 🤖 Telegram ecosystem specialist — bots, MTProto, Telethon, Pyrogram
-- 💬 Ask me about **Python · Flask · FastAPI · Telegram bots · Cloud deployments**
+- 💬 Ask me about **Python · Flask · Database · Api · Cloud deployments**
+- 😺 Visit My Portfolio and Projects **https://vaexor.netlify.app/**
 - 📫 Reach me at **rydenxgod@gmail.com**
 
 ---
@@ -54,7 +55,7 @@ class Vaexor:
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://t.me/RydenXGod" target="_blank">
+  <a href="https://t.me/RydenXGod70" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
   </a>
   &nbsp;
